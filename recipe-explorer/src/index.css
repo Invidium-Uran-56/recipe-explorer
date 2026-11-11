@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fffaf5;
+  color: #333;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  color: #e85d3f;
+}
+
+.nav-link {
+  font-weight: 500;
+  margin-left: 15px;
+}
+
+.nav-link:hover {
+  color: #e85d3f;
+}
+
+.footer {
+  background-color: #292929;
+  color: white;
+}
