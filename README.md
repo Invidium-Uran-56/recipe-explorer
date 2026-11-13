@@ -122,7 +122,7 @@ src/
 .github/
 └── workflows/
     └── deploy.yml  # GitHub Pages deployment workflow
-``
+
 
 ## Learning Objectives
 
